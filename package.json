@@ -19,7 +19,9 @@
     },
     "homepage": "https://github.com/O4epegb/do-test#readme",
     "dependencies": {
+        "body-parser": "^1.17.2",
         "express": "^4.15.3",
+        "pg": "^6.4.1",
         "showdown": "^1.7.1"
     },
     "devDependencies": {
